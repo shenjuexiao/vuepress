@@ -1,10 +1,11 @@
-# Vuepress-Deploy-Docs-cn.yml
+# Vuepress-Deploy-Docs-en.yml
 # github.com/shenjuexiao
-# 2026-08-05
+# 20260812
 
 # vuepress.vuejs.org/guide/deployment.html
 # vuepress.vuejs.org/zh/guide/deployment.html
 
+# .github/workflows/Vuepress-Deploy-Docs-en.yml
 name: Deploy Docs
 
 on:

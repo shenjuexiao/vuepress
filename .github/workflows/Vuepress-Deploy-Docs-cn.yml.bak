@@ -1,10 +1,11 @@
 # Vuepress-Deploy-Docs-cn.yml
 # github.com/shenjuexiao
-# 2026-08-05
+# 20260812
 
 # vuepress.vuejs.org/guide/deployment.html
 # vuepress.vuejs.org/zh/guide/deployment.html
 
+# .github/workflows/Vuepress-Deploy-Docs-cn.yml
 name: 部署文档
 
 on:
